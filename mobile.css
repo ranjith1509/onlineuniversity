@@ -1,0 +1,171 @@
+
+
+
+@media screen and (max-width: 420px){
+body{
+    overflow-x: hidden;
+    justify-content: center;
+    object-fit: cover;
+}
+.imgcourses img{
+    left: -50px;
+    width: 446px;
+    height: 956px;
+    padding: 46px 14px -23px -10px;
+    margin: 7px -39px -11px -9px;
+    object-fit: fill;
+    
+}
+.courses h3{
+    font-size: 32px;
+    justify-content: center;
+    text-align: center;
+    margin: 12px -41px -2px 1px;
+    position: absolute;
+    right: -268px;
+    color: white;
+    top: -109px;
+}
+.courses p{
+    font-size: 32px;
+    justify-content: center;
+    text-align: center;
+    margin: 12px -41px -2px 1px;
+    position: absolute;
+    right: -191px;
+    color: white;
+    top: -32px;
+}
+.a li a{
+  display: list-item;
+  margin: 16px -195px 4px 120px;
+}
+
+.topten .row{
+    margin: 0 0 0 0;
+}
+.topimg img{
+    margin: -2px 0 0 -7px;
+    
+    width: 380px;
+    height: 357px;
+}
+
+
+
+
+.howwe{
+margin: 19px 0 0 0;
+padding: 1636px 0 0 0;
+}
+.howwe .row{
+    margin: 521px 0 0 0;
+    
+}
+.howwe .bdblue{
+    margin: 520px 0 0 0;
+}
+.howwe img{
+    margin: 0 0 0 0;
+
+}
+.howwe .img2 img{
+    margin: -46px 0 0 0;
+}
+.howwe .img3 img{
+    margin: 109px 0 0 0;
+}
+.howwe .img4 img{
+    margin:-49px 0 0 0 ;
+}
+.howwecards .row{
+    gap: 15px;
+   
+
+}
+.howwe .row1{
+    display: inline;
+    margin: -88px -121px 0 0;
+}
+
+.life{
+    margin: 103px 0 0 0;
+
+}
+.life img{
+    object-fit: contain;
+    border-radius: 5%;
+    margin: -35px 9px 15px 33px;
+    width: 268px;
+    height: 403px;
+}
+.life .lifelist{
+    margin: 0 0 0 39px;
+}
+.leader{
+    display: none;
+}
+.computing{
+margin: 0 0 0 0;
+padding: 259px 0 0 0;
+
+
+}
+.computing .bdblue{
+   margin: -330px 0 0 0;
+   padding: 3px 0 0 0;
+}
+
+.computing .bdyellow{
+    margin: 137px 0 0 0;
+    padding: 264px 0 0 0;
+}
+
+.computing .row{
+    margin:-235px -328px 0 30px;
+    gap: 10px;
+z-index: +1;
+}
+.computingimages img{
+    margin: -67px -374px 0 0;
+    padding: 79px;
+    height: 489px;
+    width: 499px;
+    border-radius: 24%;
+}
+.need .container{
+    padding: 0 0 0 0;
+    margin: 0 0 0 0;
+    
+}
+.need .screen{
+    padding: 0 0 0 0;
+    margin: 0 0 0 0;
+}
+.need .screen-body{
+    padding: 0 0 0 0;
+    margin: 0 0 0 0;
+}
+.need .left{
+    padding: 0 0 0 0;
+    margin: 0 0 0 0;
+}
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
